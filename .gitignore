@@ -20,3 +20,8 @@ Thumbs.db
 # IDE
 .idea/
 .vscode/
+
+# Generated artifacts
+artifacts/
+llm_calls.jsonl
+.coverage
